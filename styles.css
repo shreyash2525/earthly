@@ -248,4 +248,8 @@ main{
     .footer-img{
         margin-top: 4rem;
     }
+    
+    body{
+        overflow-x: hidden;
+    }
 }
